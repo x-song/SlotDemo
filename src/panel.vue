@@ -10,7 +10,7 @@
     export default{
         data(){
             return {
-            msg:"背锅侠"
+              msg:"合并分支slot1.0"
             }
         }
     }
